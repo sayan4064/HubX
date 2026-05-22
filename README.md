@@ -6,9 +6,9 @@ The system helps manage warehouse products, perform searching/sorting operations
 
 This project demonstrates the practical implementation of:
 
-Doubly Linked List
-Stack
-Queue
-Searching
-Sorting
-Object-Oriented Programming (OOP)
+1. Doubly Linked List
+2. Stack
+3. Queue
+4. Searching
+5. Sorting
+6. Object-Oriented Programming (OOP)
